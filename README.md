@@ -1,6 +1,6 @@
 # Khan Academy - Book Shelf
-<strong>Javascript + Processing.js<br>
-Originally completed 7/31/2015</strong>
+<strong>Language: Javascript + Processing.js</strong></br>
+Originally completed 7/31/2015
 
 WOOOOOooooo I am so excited and proud to be done with this project =D
 
